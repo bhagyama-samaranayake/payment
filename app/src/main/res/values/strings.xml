@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Payment</string>
+<string name="app_name">Payments</string>
+<string name="Name">Name</string>
+<string name="Cus_acc_no">Account Number</string>
+<string name="cus_secu_code">Security code</string>
+<string name="card_exp_date">Expiry Date</string>
+<string name="confirm_but">Confirm</string>
+<string name="insert_but">Insert</string>
+<string name="update_but">Update</string>
+<string name="delete_but">Delete</string>
+<string name="bill_amount">Amount</string>
 </resources>
